@@ -2,7 +2,7 @@
 
 Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle.
 
-- 👀 My personal [website](https://zhangyk8.github.io/).
+- 👀 Here is my [personal website](https://zhangyk8.github.io/).
 - 🔭 I’m broadly interested in nonparametric statistics, optimization on manifolds, high-dimensional statistics, and causal inference,
   with a focus on:
   - **Kernel smoothing and mode clustering** with directional data;

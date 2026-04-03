@@ -11,6 +11,8 @@ Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, 
   - Causal inference for **continuous treatments** and **positivity violations**;
   - Transfer learning and domain adaptation with **generative models**.
 
+On the applied side, I am broadly interested in tackling challenging problems in astronomy and beyond, particularly those related to detecting and analyzing the **cosmic web** through statistically principled approaches.
+
 ## Selected Projects
 
 - Kernel Smoothing, Mean Shift, and Their Learning Theory with Directional Data.

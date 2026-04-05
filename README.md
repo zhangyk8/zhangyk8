@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle. 👀 Here is my [personal website](https://zhangyk8.github.io/).
+Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle. Here is my [personal website](https://zhangyk8.github.io/) 👀.
 
 I’m broadly interested in nonparametric statistics, optimization on manifolds, high-dimensional statistics, and causal inference,
   with a focus on:

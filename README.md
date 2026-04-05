@@ -1,9 +1,8 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle.
+Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle. 👀 Here is my [personal website](https://zhangyk8.github.io/).
 
-- 👀 Here is my [personal website](https://zhangyk8.github.io/).
-- 🔭 I’m broadly interested in nonparametric statistics, optimization on manifolds, high-dimensional statistics, and causal inference,
+I’m broadly interested in nonparametric statistics, optimization on manifolds, high-dimensional statistics, and causal inference,
   with a focus on:
   - **Kernel smoothing** and **mode clustering** with directional data;
   - Linear convergence theory of **gradient-type** algorithm on **nonlinear manifolds**;
@@ -11,7 +10,7 @@ Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, 
   - Causal inference for **continuous treatments** and **positivity violations**;
   - Transfer learning and domain adaptation with **generative models**.
 
-On the applied side, I am broadly interested in tackling challenging problems in astronomy and beyond, particularly those related to detecting and analyzing the **cosmic web** through statistically principled approaches.
+🔭 On the applied side, I am broadly interested in tackling challenging problems in astronomy and beyond, particularly those related to detecting and analyzing the **cosmic web** through statistically principled approaches.
 
 ## Selected Projects
 

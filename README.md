@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle. Here is my [personal website](https://zhangyk8.github.io/) 👀.
+Hi, I’m Yikun, a PhD candidate in Statistics at the University of Washington, Seattle.
 
 I’m interested in nonparametric statistics, optimization on manifolds, high-dimensional statistics, and causal inference, with specific focuses on:
   - **Kernel smoothing** and **mode clustering** with directional data;
@@ -9,9 +9,12 @@ I’m interested in nonparametric statistics, optimization on manifolds, high-di
   - Causal inference for **continuous treatments** and **positivity violations**;
   - Transfer learning and domain adaptation with **generative models**.
 
-🔭 On the applied side, I am broadly interested in tackling challenging problems in astronomy and beyond, particularly those related to detecting and analyzing the **cosmic web** through statistically principled approaches.
+🔭 On the applied side, I am broadly interested in tackling challenging problems in astronomy and beyond, particularly those related to detecting and analyzing the **cosmic web** through statistically principled approaches. 
 
-## Selected Projects
+👀 More details are in my [personal website](https://zhangyk8.github.io/).
+
+<!--
+### Selected Projects
 
 - Kernel Smoothing, Mean Shift, and Their Learning Theory with Directional Data.
   📚[code](https://github.com/zhangyk8/DirMS).
@@ -36,6 +39,7 @@ I’m interested in nonparametric statistics, optimization on manifolds, high-di
 - Transfer Learning Through Conditional Quantile Matching.
   📚[code](https://github.com/facebookresearch/TLCQM).
   📄[paper](https://arxiv.org/abs/2602.02358).
+-->
 
 <!--
 **zhangyk8/zhangyk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
